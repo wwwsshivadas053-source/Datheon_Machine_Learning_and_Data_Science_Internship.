@@ -482,8 +482,9 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 ## 👤 Author
 
 **Your Name**
+Prajwal TS
 Machine Learning & Data Science
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username) · [Email](mailto:you@example.com)
+
 
 <div align="center">
 
