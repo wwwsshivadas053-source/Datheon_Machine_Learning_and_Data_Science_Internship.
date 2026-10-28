@@ -482,10 +482,6 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 ## 👤 Author
 
 <p align="center">
-  <img src="assets/author.svg" alt="Author avatar" width="160" height="160"/>
-</p>
-
-<p align="center">
   <b>Your Name</b><br/>
   Machine Learning & Data Science<br/>
   <a href="https://linkedin.com/in/your-profile">LinkedIn</a> · <a href="https://github.com/your-username">GitHub</a> · <a href="mailto:you@example.com">Email</a>
